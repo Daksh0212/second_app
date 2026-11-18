@@ -1,6 +1,7 @@
 from pathlib import Path
 from io import BytesIO
-
+import plum
+from fastai.learner import load_learner
 import streamlit as st
 from PIL import Image
 from fastai.vision.all import load_learner, PILImage
