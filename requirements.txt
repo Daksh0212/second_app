@@ -1,4 +1,6 @@
-streamlit==1.67.0
-fastai==2.8.12
-plum-dispatch==2.6.1
+
+streamlit>=1.40
+fastai>=2.7
 pillow>=10
+plum-dispatch==2.6.1
+
