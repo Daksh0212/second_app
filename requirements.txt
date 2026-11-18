@@ -1,0 +1,3 @@
+streamlit>=1.40
+fastai>=2.7
+pillow>=10
